@@ -1,0 +1,26 @@
+.contactInfo h2 {
+  margin-bottom: 0.5em;
+  color: #005587;
+  font-size: 2.1875rem;
+  font-weight: 700;
+  font-family: sans-serif;
+  line-height: 1.2;
+}
+
+.contactInfo a {
+  text-decoration: underline;
+  color: #005587;
+}
+
+.contactInfo p {
+  color: black;
+  font-size: 1.3125rem;
+  font-weight: 500;
+  font-family: sans-serif;
+}
+
+@media only screen and (max-width: 576px) {
+  .contactInfo {
+    padding-left: 30px;
+  }
+}

@@ -1,0 +1,37 @@
+.heading1 {
+  color: #005587;
+  font-weight: 700;
+}
+
+.card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+  margin: 10px;
+  width: 30%;
+  box-sizing: border-box;
+  transition: box-shadow 0.3s ease;
+}
+
+.card:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Change the box-shadow on hover */
+}
+
+.card img {
+  max-width: 100%;
+  height: auto;
+}
+
+.card-list {
+  justify-content: space-evenly;
+}
+
+@media only screen and (max-width: 601px) {
+  .card-list {
+    flex-direction: column;
+  }
+  .card {
+    width: 90%;
+    margin-left: 5%;
+  }
+}

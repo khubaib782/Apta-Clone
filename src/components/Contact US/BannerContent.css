@@ -1,0 +1,10 @@
+.text-editor p {
+  font-size: 19px;
+  font-family: sans-serif;
+  font-weight: 500;
+}
+
+.text-editor a {
+  text-decoration: underline;
+  color: #005587;
+}

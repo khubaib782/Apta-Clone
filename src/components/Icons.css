@@ -1,0 +1,115 @@
+.icon-container {
+  transform: translate(2px, -31px);
+}
+
+.icon1 {
+  font-size: 5rem;
+  margin-left: 61%;
+  background-color: white;
+  border-radius: 50%;
+  padding: 12px;
+  color: #005587;
+}
+.icon2 {
+  font-size: 5rem;
+  margin-left: 41%;
+  background-color: white;
+  border-radius: 50%;
+  padding: 12px;
+  color: #005587;
+}
+.icon3 {
+  font-size: 5rem;
+  margin-left: 23%;
+  background-color: white;
+  border-radius: 50%;
+  padding: 12px;
+  color: #005587;
+}
+
+.icon1-text-container {
+  color: #005587;
+  margin-left: 49%;
+}
+
+.icon2-text-container {
+  color: #005587;
+  margin-left: 27%;
+}
+
+.icon3-text-container {
+  color: #005587;
+  margin-left: 13%;
+}
+
+.icon1-text-container,
+.icon2-text-container,
+.icon3-text-container {
+  margin-top: -8%;
+}
+
+@media only screen and (max-width: 1029px) {
+  .icon1-text-container {
+    margin-left: 59%;
+  }
+}
+@media only screen and (max-width: 992px) {
+  .icons-container {
+    margin-top: 50px;
+  }
+}
+@media only screen and (max-width: 963px) {
+  .icon2-text-container {
+    margin-left: 38%;
+  }
+}
+@media only screen and (max-width: 768px) {
+  /* .icon1-text-container {
+    margin-left: 55%;
+  } */
+  .icon-container {
+    margin-bottom: 30px;
+    margin-top: 15px;
+  }
+  .icon1,
+  .icon2,
+  .icon3 {
+    margin-left: 50%;
+    padding: 0px;
+    font-size: 4rem;
+  }
+  .icon1-text-container,
+  .icon2-text-container,
+  .icon3-text-container {
+    margin-left: 42%;
+  }
+  .icon2,
+  .icon3 {
+    margin-top: 4%;
+  }
+}
+@media only screen and (max-width: 512px) {
+  .icon1,
+  .icon2,
+  .icon3 {
+    margin-left: 45%;
+    padding: 0px;
+    font-size: 4rem;
+  }
+  .icon1-text-container,
+  .icon2-text-container,
+  .icon3-text-container {
+    margin-left: 30%;
+  }
+}
+@media only screen and (max-width: 512px) {
+  .icon-container {
+    margin-bottom: 20px;
+  }
+  .icon3 {
+    margin-top: 30px;
+  }
+  .icon2 {
+    margin-top: 15px;
+  }
+}
