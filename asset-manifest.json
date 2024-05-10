@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/apta-clone/static/css/main.a00af457.css",
+    "main.js": "/apta-clone/static/js/main.962034a7.js",
+    "static/media/Banner2.png": "/apta-clone/static/media/Banner2.b0dcab2588fa0136a9d1.png",
+    "static/media/child.png": "/apta-clone/static/media/child.6c865baf4299f8c689a5.png",
+    "static/media/contact-banner.png": "/apta-clone/static/media/contact-banner.ef83ded854c6308456df.png",
+    "static/media/b.png": "/apta-clone/static/media/b.bcebc85e44246991ea87.png",
+    "static/media/a.png": "/apta-clone/static/media/a.68e757a5109e0ebc03d6.png",
+    "static/media/c.png": "/apta-clone/static/media/c.f40a94e6c18fa9e36aea.png",
+    "static/media/john.jpg": "/apta-clone/static/media/john.68f414735bc9904d2ed5.jpg",
+    "static/media/bannerImage.jpg": "/apta-clone/static/media/bannerImage.3b76b148a75cc8a3b0df.jpg",
+    "index.html": "/apta-clone/index.html",
+    "main.a00af457.css.map": "/apta-clone/static/css/main.a00af457.css.map",
+    "main.962034a7.js.map": "/apta-clone/static/js/main.962034a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a00af457.css",
+    "static/js/main.962034a7.js"
+  ]
+}
